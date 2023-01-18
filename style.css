@@ -105,3 +105,33 @@ html{
     flex-wrap: wrap;
     gap: 15px;
 }
+.award-winning-hotel h1{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding: 2rem ;
+}
+.award-winning-hotel h1 span{
+    color: var(--maincolor);
+}
+.inner-award{
+    flex: 1 1 300px;
+}
+.inner-award h2,p{
+    text-align: center;
+}
+.inner-award h2{
+    font-size: 30px;
+    padding: 1rem;
+}
+.inner-award p{
+    font-size: 1.7rem;
+    padding: 2rem;
+}
+.inner-award img{
+    width: 100%;
+}
+.gallery{
+    padding: 2rem 7%;
+
+}
