@@ -1,7 +1,7 @@
 :root{
     --maincolor:#0000ff;
 }
-*{
+*{ 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -172,7 +172,7 @@ html{
   .social-link {
     width: 30px;
     height: 30px;
-    border: 1px solid #ddd;
+    border: 1px solid #b39999;
     display: flex;
     align-items: center;
     justify-content: center;
